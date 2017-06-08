@@ -1,0 +1,12 @@
+
+Your Personal vDisk space has reached over 90% of its capacity.   
+You should resolve this as soon as possible before your Personal vDisk fills up and needs to be reset.  
+When that happens, you will need to reinstall your applications.
+
+You should move your ‘User Data’ from your C and or PvD drive and it should be kept on your home drive.  
+The free space on your workstation is to be used for application installs, temp files, and other general 
+system and application configurations.
+
+Let us know if you need any help.
+
+Thanks
